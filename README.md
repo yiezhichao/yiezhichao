@@ -1,4 +1,3 @@
-<img src="https://raw.githubusercontent.com/giwajossy/giwajossy/master/banner.png" alt="Giwa Jossy">
 
 # Empathy. Psychology. Education. 👋
 
